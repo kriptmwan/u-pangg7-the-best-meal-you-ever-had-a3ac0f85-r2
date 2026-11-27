@@ -1,5 +1,6 @@
 // Round-2 entry for "The Best Meal You Ever Had" (make.fun).
 // Writes one sentence (176 chars, within the 1-200 char gate) to /output/entry.txt.
+// Final sentence (176 chars): grilled ikan patin on a wooden boat on the Musi.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const SENTENCE =
